@@ -1,6 +1,116 @@
 ============
-Game started at 04, Jun, 2022 // 22:34:43
-Agent defeated // 22:34:45
-Player shot // 22:34:46
-Player shot // 22:34:47
-Agent defeated // 22:34:47
+Game started at 04, Jun, 2022 // 23:50:36
+Agent defeated // 23:50:38
+Player shot // 23:50:38
+Player shot // 23:50:39
+Agent defeated // 23:50:39
+Player shot // 23:50:40
+Player shot // 23:50:40
+Player shot // 23:50:41
+Player shot // 23:50:42
+Player shot // 23:50:43
+Player shot // 23:50:44
+Player shot // 23:50:45
+Player shot // 23:50:46
+Agent defeated // 23:50:46
+Player shot // 23:50:46
+Player shot // 23:50:47
+Agent defeated // 23:50:48
+Player won // 23:50:49
+============
+Game started at 04, Jun, 2022 // 23:50:51
+Player shot // 23:50:52
+Player shot // 23:50:53
+Agent defeated // 23:50:53
+Player shot // 23:50:53
+Player shot // 23:50:54
+Agent defeated // 23:50:55
+Player shot // 23:50:55
+Player loose // 23:50:58
+============
+Game started at 04, Jun, 2022 // 23:51:00
+============
+Game started at 04, Jun, 2022 // 23:53:42
+Player shot // 23:53:43
+Player shot // 23:53:44
+Player shot // 23:53:45
+Agent defeated // 23:53:45
+Player shot // 23:53:46
+Player shot // 23:53:46
+Player shot // 23:53:48
+Player shot // 23:53:49
+Agent defeated // 23:53:49
+Player shot // 23:53:51
+Player shot // 23:53:54
+Agent defeated // 23:53:54
+============
+Game started at 04, Jun, 2022 // 23:55:01
+Player shot // 23:55:03
+Agent defeated // 23:55:03
+Player shot // 23:55:04
+Player shot // 23:55:05
+Agent defeated // 23:55:05
+Player shot // 23:55:05
+============
+Game started at 05, Jun, 2022 // 00:01:17
+Player shot // 00:01:18
+Player shot // 00:01:19
+Agent defeated // 00:01:19
+Player shot // 00:01:23
+Agent defeated // 00:01:24
+Player shot // 00:01:26
+Player shot // 00:01:26
+Player shot // 00:01:27
+Player shot // 00:01:28
+Player shot // 00:01:28
+Agent defeated // 00:01:28
+Player shot // 00:01:29
+Agent defeated // 00:01:29
+Player won // 00:01:31
+============
+Game started at 05, Jun, 2022 // 00:01:33
+============
+Game started at 05, Jun, 2022 // 00:02:29
+Player shot // 00:02:30
+============
+Game started at 05, Jun, 2022 // 00:02:37
+Player shot // 00:02:38
+Player shot // 00:02:41
+Agent defeated // 00:02:41
+Player shot // 00:02:42
+Player shot // 00:02:43
+Player shot // 00:02:44
+Agent defeated // 00:02:44
+Player shot // 00:02:44
+Player shot // 00:02:45
+Player shot // 00:02:46
+Player shot // 00:02:47
+Player shot // 00:02:48
+Player shot // 00:02:48
+Agent defeated // 00:02:49
+Player shot // 00:02:49
+Player shot // 00:02:50
+Player shot // 00:02:51
+Player shot // 00:02:52
+Agent defeated // 00:02:52
+Player won // 00:02:53
+============
+Game started at 05, Jun, 2022 // 00:02:55
+Player loose // 00:02:57
+============
+Game started at 05, Jun, 2022 // 00:02:59
+Agent defeated // 00:03:00
+============
+Game started at 05, Jun, 2022 // 00:03:36
+Player shot // 00:03:38
+Player shot // 00:03:39
+Agent defeated // 00:03:39
+Player shot // 00:03:40
+Player shot // 00:03:41
+Player shot // 00:03:43
+Player shot // 00:03:44
+Agent defeated // 00:03:44
+Player shot // 00:03:45
+Player loose // 00:03:47
+============
+Game started at 05, Jun, 2022 // 00:03:49
